@@ -14,4 +14,5 @@ This project is a chrome extension which will let you use one hotkey for navigat
 5.Refresh pages.
 
 [version 0.1]
+release date: 2017/02/05
 Initial version of extension, which can be used to navigate chrome tabs in 'Developer Mode'.
