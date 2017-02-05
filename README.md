@@ -1,4 +1,9 @@
 # OneKeyTabNavi
+[Project]
+Name: OneKeyTabNavi
+Purpose: use one hot key to navigate between tabs in chrome.
+Auther: Yulong Qiu (qiuyulong.cn@gmail.com)
+
 
 [Description]
 Really can not tolerate anymore to use combined keys 'Ctrl + Tab' or 'Ctrl + Shift + Tab' to navigate tabs in Chrome. It's so painful!!!! to check if I have knocked the right bunch of keys. Also using gestures in touchpad is awful.
